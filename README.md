@@ -2,7 +2,7 @@
 
 This project is a clone of the Apollo247 doctors listing page, built with Next.js and MongoDB. It includes a responsive UI with functional filters, pagination, and backend REST APIs.
 
-![Apollo247 Clone Screenshot](https://placeholder.svg?height=400&width=800)
+![Apollo247 Clone Screenshot](https://github.com/user-attachments/assets/13bc94da-a207-40e8-a8af-b5b580ca8714)
 
 ## Features
 
@@ -15,7 +15,7 @@ This project is a clone of the Apollo247 doctors listing page, built with Next.j
 
 ## Demo
 
-You can view a live demo of the project at [Click-here](https://apollo247-clone.vercel.app) (replace with your actual deployment URL when available).
+You can view a live demo of the project at [Click-here](https://apollo247-doctors-listing-clone.vercel.app)
 
 ## Prerequisites
 
